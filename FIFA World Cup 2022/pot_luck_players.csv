@@ -1,0 +1,830 @@
+﻿Position,Player,Team,Person
+FW,Lautaro Martínez,Argentina,Abby
+DF,Thomas Deng,Australia,Abby
+MF,Keanu Baccus,Australia,Abby
+DF,Leander Dendoncker,Belgium,Abby
+MF,Lucas Paquetá,Brazil,Abby
+GK,Ivica Ivušić,Croatia,Abby
+DF,Josip Šutalo,Croatia,Abby
+MF,Kristijan Jakić,Croatia,Abby
+GK,Kasper Schmeichel,Denmark,Abby
+MF,Ángel Mena,Ecuador,Abby
+DF,Harry Maguire,England,Abby
+MF,Phil Foden,England,Abby
+FW,Marcus Rashford,England,Abby
+MF,Adrien Rabiot,France,Abby
+FW,Kylian Mbappé,France,Abby
+FW,Youssoufa Moukoko,Germany,Abby
+DF,Denis Odoi,Ghana,Abby
+MF,Mohammed Kudus,Ghana,Abby
+MF,Ahmad Nourollahi,Iran,Abby
+MF,Mehdi Torabi,Iran,Abby
+FW,Mehdi Taremi,Iran,Abby
+DF,Miki Yamane,Japan,Abby
+MF,Hidemasa Morita,Japan,Abby
+MF,Takefusa Kubo,Japan,Abby
+GK,Guillermo Ochoa,Mexico,Abby
+MF,Luis Chávez,Mexico,Abby
+GK,Wojciech Szczęsny,Poland,Abby
+MF,Jakub Kamiński,Poland,Abby
+MF,Nicola Zalewski,Poland,Abby
+GK,José Sá,Portugal,Abby
+DF,António Silva,Portugal,Abby
+DF,Nuno Mendes,Portugal,Abby
+MF,João Mário,Portugal,Abby
+FW,Bernardo Silva,Portugal,Abby
+GK,Meshaal Barsham,Qatar,Abby
+DF,Abdullah Madu,Saudi Arabia,Abby
+MF,Mohamed Kanno,Saudi Arabia,Abby
+MF,Idrissa Gueye,Senegal,Abby
+DF,Kim Jin-su,South Korea,Abby
+MF,Kwon Chang-hoon,South Korea,Abby
+DF,Alejandro Balde,Spain,Abby
+GK,Jonas Omlin,Switzerland,Abby
+GK,Yann Sommer,Switzerland,Abby
+MF,Fabian Rieder,Switzerland,Abby
+MF,Ghailene Chaalali,Tunisia,Abby
+MF,Tyler Adams,United States,Abby
+DF,Ronald Araújo,Uruguay,Abby
+DF,Chris Mepham,Wales,Abby
+DF,Tom Lockyer,Wales,Abby
+MF,Aaron Ramsey,Wales,Abby
+MF,Sorba Thomas,Wales,Abby
+MF,Papu Gómez,Argentina,Ed
+FW,Paulo Dybala,Argentina,Ed
+DF,Aziz Behich,Australia,Ed
+GK,Koen Casteels,Belgium,Ed
+MF,Thomas Meunier,Belgium,Ed
+GK,Ederson,Brazil,Ed
+DF,Marquinhos,Brazil,Ed
+MF,Fabinho,Brazil,Ed
+FW,Gabriel Martinelli,Brazil,Ed
+FW,Richarlison,Brazil,Ed
+MF,Ismaël Koné,Canada,Ed
+MF,Liam Fraser,Canada,Ed
+MF,Liam Millar,Canada,Ed
+DF,Martin Erlić,Croatia,Ed
+MF,Luka Modrić,Croatia,Ed
+FW,Ivan Perišić,Croatia,Ed
+GK,Oliver Christensen,Denmark,Ed
+DF,Daniel Wass,Denmark,Ed
+MF,Andreas Skov Olsen,Denmark,Ed
+FW,Jonas Wind,Denmark,Ed
+DF,Diego Palacios,Ecuador,Ed
+GK,Jordan Pickford,England,Ed
+DF,Ibrahima Konaté,France,Ed
+MF,Youssouf Fofana,France,Ed
+DF,Lukas Klostermann,Germany,Ed
+MF,Joshua Kimmich,Germany,Ed
+DF,Ko Itakura,Japan,Ed
+DF,Edson Álvarez,Mexico,Ed
+DF,Héctor Moreno,Mexico,Ed
+DF,Achraf Hakimi,Morocco,Ed
+FW,Abdelhamid Sabiri,Morocco,Ed
+MF,Frenkie de Jong,Netherlands,Ed
+MF,Damian Szymański,Poland,Ed
+MF,Kamil Grosicki,Poland,Ed
+MF,Krystian Bielik,Poland,Ed
+MF,Przemysław Frankowski,Poland,Ed
+FW,Arkadiusz Milik,Poland,Ed
+MF,Bruno Fernandes,Portugal,Ed
+FW,Mohammed Muntari,Qatar,Ed
+GK,Mohammed Al-Owais,Saudi Arabia,Ed
+MF,Krépin Diatta,Senegal,Ed
+FW,Nicolas Jackson,Senegal,Ed
+FW,Luka Jović,Serbia,Ed
+MF,Song Min-kyu,South Korea,Ed
+GK,Unai Simón,Spain,Ed
+DF,Pau Torres,Spain,Ed
+DF,Renato Steffen,Switzerland,Ed
+MF,Remo Freuler,Switzerland,Ed
+FW,Issam Jebali,Tunisia,Ed
+GK,Fernando Muslera,Uruguay,Ed
+MF,Harry Wilson,Wales,Ed
+MF,Guido Rodríguez,Argentina,Francis
+MF,Cameron Devlin,Australia,Francis
+FW,Awer Mabil,Australia,Francis
+FW,Jérémy Doku,Belgium,Francis
+FW,Michy Batshuayi,Belgium,Francis
+GK,Alisson,Brazil,Francis
+DF,Olivier Mbaizo,Cameroon,Francis
+FW,Eric Maxim Choupo-Moting,Cameroon,Francis
+GK,Dayne St. Clair,Canada,Francis
+DF,Kamal Miller,Canada,Francis
+MF,Álvaro Zamora,Costa Rica,Francis
+DF,Josip Juranović,Croatia,Francis
+DF,Joško Gvardiol,Croatia,Francis
+DF,Rasmus Kristensen,Denmark,Francis
+DF,Simon Kjær,Denmark,Francis
+MF,Christian Eriksen,Denmark,Francis
+DF,Xavier Arreaga,Ecuador,Francis
+FW,Bukayo Saka,England,Francis
+FW,Callum Wilson,England,Francis
+DF,Christian Günter,Germany,Francis
+DF,Nico Schlotterbeck,Germany,Francis
+FW,Iñaki Williams,Ghana,Francis
+GK,Hossein Hosseini,Iran,Francis
+DF,Hossein Kanaanizadegan,Iran,Francis
+MF,Alireza Jahanbakhsh,Iran,Francis
+DF,Hiroki Ito,Japan,Francis
+MF,Takumi Minamino,Japan,Francis
+DF,Jesús Gallardo,Mexico,Francis
+MF,Luis Romo,Mexico,Francis
+FW,Henry Martín,Mexico,Francis
+GK,Ahmed Reda Tagnaouti,Morocco,Francis
+MF,Selim Amallah,Morocco,Francis
+DF,Daley Blind,Netherlands,Francis
+MF,Kenneth Taylor,Netherlands,Francis
+DF,Artur Jędrzejczyk,Poland,Francis
+MF,William Carvalho,Portugal,Francis
+FW,Ricardo Horta,Portugal,Francis
+DF,Boualem Khoukhi,Qatar,Francis
+DF,Musab Kheder,Qatar,Francis
+MF,Assim Madibo,Qatar,Francis
+MF,Jassem Gaber,Qatar,Francis
+MF,Nampalys Mendy,Senegal,Francis
+FW,Iliman Ndiaye,Senegal,Francis
+DF,Miloš Veljković,Serbia,Francis
+MF,Na Sang-ho,South Korea,Francis
+MF,Rodri,Spain,Francis
+MF,Sergio Busquets,Spain,Francis
+GK,Gregor Kobel,Switzerland,Francis
+DF,Fabian Schär,Switzerland,Francis
+FW,Haris Seferovic,Switzerland,Francis
+GK,Sergio Rochet,Uruguay,Francis
+GK,Franco Armani,Argentina,George
+DF,Cristian Romero,Argentina,George
+MF,Thiago Almada,Argentina,George
+FW,Jason Cummings,Australia,George
+FW,Martin Boyle,Australia,George
+DF,Jan Vertonghen,Belgium,George
+DF,Dani Alves,Brazil,George
+GK,Milan Borjan,Canada,George
+MF,Atiba Hutchinson,Canada,George
+GK,Keylor Navas,Costa Rica,George
+MF,Celso Borges,Costa Rica,George
+MF,Youstin Salas,Costa Rica,George
+MF,Luka Sučić,Croatia,George
+FW,Andrej Kramarić,Croatia,George
+DF,Joakim Mæhle,Denmark,George
+MF,Jesper Lindstrøm,Denmark,George
+MF,Mikkel Damsgaard,Denmark,George
+DF,Pervis Estupiñán,Ecuador,George
+DF,Ángelo Preciado,Ecuador,George
+DF,Theo Hernandez,France,George
+FW,Kingsley Coman,France,George
+MF,Daniel Afriyie,Ghana,George
+DF,Abolfazl Jalali,Iran,George
+FW,Sardar Azmoun,Iran,George
+GK,Shūichi Gonda,Japan,George
+MF,Andrés Guardado,Mexico,George
+GK,Munir Mohamedi,Morocco,George
+DF,Romain Saïss,Morocco,George
+MF,Anass Zaroury,Morocco,George
+DF,Nathan Aké,Netherlands,George
+MF,Sebastian Szymański,Poland,George
+FW,Karol Świderski,Poland,George
+DF,Pepe,Portugal,George
+DF,Ró-Ró,Qatar,George
+MF,Abdelkarim Hassan,Qatar,George
+MF,Hassan Al-Haydos,Qatar,George
+DF,Formose Mendy,Senegal,George
+DF,Stefan Mitrović,Serbia,George
+MF,Nemanja Maksimović,Serbia,George
+MF,Uroš Račić,Serbia,George
+GK,Kim Seung-gyu,South Korea,George
+FW,Cho Gue-sung,South Korea,George
+DF,Jordi Alba,Spain,George
+FW,Álvaro Morata,Spain,George
+DF,Silvan Widmer,Switzerland,George
+DF,Bilel Ifa,Tunisia,George
+FW,Anis Ben Slimane,Tunisia,George
+GK,Sean Johnson,United States,George
+DF,Sebastián Coates,Uruguay,George
+GK,Danny Ward,Wales,George
+MF,Joe Morrell,Wales,George
+MF,Amadou Onana,Belgium,Hannah
+MF,Hans Vanaken,Belgium,Hannah
+FW,Eden Hazard,Belgium,Hannah
+FW,Gabriel Jesus,Brazil,Hannah
+FW,Pedro,Brazil,Hannah
+GK,Devis Epassy,Cameroon,Hannah
+FW,Alphonso Davies,Canada,Hannah
+MF,Gerson Torres,Costa Rica,Hannah
+DF,Borna Barišić,Croatia,Hannah
+DF,Josip Stanišić,Croatia,Hannah
+MF,Mario Pašalić,Croatia,Hannah
+MF,Nikola Vlašić,Croatia,Hannah
+MF,Christian Nørgaard,Denmark,Hannah
+MF,Gonzalo Plata,Ecuador,Hannah
+GK,Nick Pope,England,Hannah
+MF,Matteo Guendouzi,France,Hannah
+DF,David Raum,Germany,Hannah
+DF,Matthias Ginter,Germany,Hannah
+MF,Thomas Müller,Germany,Hannah
+GK,Ibrahim Danlad,Ghana,Hannah
+DF,Tariq Lamptey,Ghana,Hannah
+MF,Kamal Sowah,Ghana,Hannah
+DF,Majid Hosseini,Iran,Hannah
+DF,Rouzbeh Cheshmi,Iran,Hannah
+FW,Shuto Machino,Japan,Hannah
+DF,Néstor Araujo,Mexico,Hannah
+MF,Hakim Ziyech,Morocco,Hannah
+FW,Youssef En-Nesyri,Morocco,Hannah
+DF,Stefan de Vrij,Netherlands,Hannah
+MF,Grzegorz Krychowiak,Poland,Hannah
+GK,Rui Patrício,Portugal,Hannah
+MF,João Palhinha,Portugal,Hannah
+MF,Vitinha,Portugal,Hannah
+FW,João Félix,Portugal,Hannah
+DF,Bassam Al-Rawi,Qatar,Hannah
+FW,Akram Afif,Qatar,Hannah
+MF,Abdullah Otayf,Saudi Arabia,Hannah
+MF,Sami Al-Najei,Saudi Arabia,Hannah
+FW,Abdulrahman Al-Aboud,Saudi Arabia,Hannah
+GK,Alfred Gomis,Senegal,Hannah
+DF,Abdou Diallo,Senegal,Hannah
+DF,Youssouf Sabaly,Senegal,Hannah
+FW,Dušan Tadić,Serbia,Hannah
+DF,Kwon Kyung-won,South Korea,Hannah
+MF,Christian Fassnacht,Switzerland,Hannah
+DF,Wajdi Kechrida,Tunisia,Hannah
+MF,Weston McKennie,United States,Hannah
+FW,Christian Pulisic,United States,Hannah
+MF,Matías Vecino,Uruguay,Hannah
+FW,Daniel James,Wales,Hannah
+FW,Gareth Bale,Wales,Hannah
+MF,Enzo Fernández,Argentina,Ivan
+FW,Julián Álvarez,Argentina,Ivan
+DF,Nathaniel Atkinson,Australia,Ivan
+FW,Mathew Leckie,Australia,Ivan
+DF,Toby Alderweireld,Belgium,Ivan
+FW,Neymar,Brazil,Ivan
+MF,Pierre Kunde,Cameroon,Ivan
+FW,Jean-Pierre Nsame,Cameroon,Ivan
+MF,Daniel Chacón,Costa Rica,Ivan
+MF,Roan Wilson,Costa Rica,Ivan
+FW,Johan Venegas,Costa Rica,Ivan
+GK,Dominik Livaković,Croatia,Ivan
+GK,Ivo Grbić,Croatia,Ivan
+MF,Pierre-Emile Højbjerg,Denmark,Ivan
+FW,Kasper Dolberg,Denmark,Ivan
+GK,Moisés Ramírez,Ecuador,Ivan
+DF,Robert Arboleda,Ecuador,Ivan
+MF,James Maddison,England,Ivan
+MF,Mason Mount,England,Ivan
+DF,Jules Koundé,France,Ivan
+DF,William Saliba,France,Ivan
+GK,Kevin Trapp,Germany,Ivan
+DF,Niklas Süle,Germany,Ivan
+MF,Jonas Hofmann,Germany,Ivan
+MF,Leroy Sané,Germany,Ivan
+DF,Daniel Amartey,Ghana,Ivan
+DF,Joseph Aidoo,Ghana,Ivan
+DF,Jorge Sánchez,Mexico,Ivan
+GK,Andries Noppert,Netherlands,Ivan
+FW,Memphis Depay,Netherlands,Ivan
+FW,Krzysztof Piątek,Poland,Ivan
+MF,Naif Al-Hadhrami,Qatar,Ivan
+FW,Almoez Ali,Qatar,Ivan
+MF,Ali Al-Hassan,Saudi Arabia,Ivan
+DF,Cheikhou Kouyaté,Senegal,Ivan
+DF,Pape Abou Cissé,Senegal,Ivan
+DF,Srđan Babić,Serbia,Ivan
+DF,Cho Yu-min,South Korea,Ivan
+DF,Yoon Jong-gyu,South Korea,Ivan
+MF,Jeong Woo-yeong,South Korea,Ivan
+MF,Lee Jae-sung,South Korea,Ivan
+MF,Ardon Jashari,Switzerland,Ivan
+MF,Djibril Sow,Switzerland,Ivan
+FW,Noah Okafor,Switzerland,Ivan
+GK,Mouez Hassen,Tunisia,Ivan
+DF,Montassar Talbi,Tunisia,Ivan
+MF,Giorgian de Arrascaeta,Uruguay,Ivan
+FW,Maxi Gómez,Uruguay,Ivan
+GK,Adam Davies,Wales,Ivan
+DF,Chris Gunter,Wales,Ivan
+MF,Joe Allen,Wales,Ivan
+DF,Juan Foyth,Argentina,Ken
+DF,Fran Karačić,Australia,Ken
+MF,Kevin De Bruyne,Belgium,Ken
+FW,Loïs Openda,Belgium,Ken
+DF,Bremer,Brazil,Ken
+FW,Raphinha,Brazil,Ken
+MF,Olivier Ntcham,Cameroon,Ken
+FW,Cyle Larin,Canada,Ken
+FW,Iké Ugbo,Canada,Ken
+DF,Kendall Waston,Costa Rica,Ken
+MF,Jewison Bennette,Costa Rica,Ken
+MF,Marcelo Brozović,Croatia,Ken
+DF,Andreas Christensen,Denmark,Ken
+DF,Victor Nelsson,Denmark,Ken
+MF,Robert Skov,Denmark,Ken
+DF,Piero Hincapié,Ecuador,Ken
+MF,Kalvin Phillips,England,Ken
+FW,Harry Kane,England,Ken
+FW,Jack Grealish,England,Ken
+FW,Raheem Sterling,England,Ken
+DF,Axel Disasi,France,Ken
+FW,Marcus Thuram,France,Ken
+MF,Osman Bukari,Ghana,Ken
+GK,Alireza Beiranvand,Iran,Ken
+DF,Ramin Rezaeian,Iran,Ken
+DF,Shojae Khalilzadeh,Iran,Ken
+FW,Karim Ansarifard,Iran,Ken
+FW,Daizen Maeda,Japan,Ken
+FW,Orbelín Pineda,Mexico,Ken
+FW,Rogelio Funes Mori,Mexico,Ken
+DF,Yahia Attiyat Allah,Morocco,Ken
+MF,Sofiane Boufal,Morocco,Ken
+DF,Jakub Kiwior,Poland,Ken
+MF,Szymon Żurkowski,Poland,Ken
+DF,Danilo Pereira,Portugal,Ken
+FW,André Silva,Portugal,Ken
+FW,Cristiano Ronaldo,Portugal,Ken
+FW,Gonçalo Ramos,Portugal,Ken
+MF,Pape Gueye,Senegal,Ken
+MF,Pape Matar Sarr,Senegal,Ken
+MF,Andrija Živković,Serbia,Ken
+MF,Nemanja Gudelj,Serbia,Ken
+FW,Nemanja Radonjić,Serbia,Ken
+GK,Robert Sánchez,Spain,Ken
+DF,Edimilson Fernandes,Switzerland,Ken
+FW,Naïm Sliti,Tunisia,Ken
+DF,Sergiño Dest,United States,Ken
+MF,Cristian Roldan,United States,Ken
+FW,Haji Wright,United States,Ken
+DF,José Luis Rodríguez,Uruguay,Ken
+MF,Jonny Williams,Wales,Ken
+DF,Nicolás Tagliafico,Argentina,Myles
+MF,Leandro Paredes,Argentina,Myles
+GK,Mathew Ryan,Australia,Myles
+DF,Joel King,Australia,Myles
+MF,Aaron Mooy,Australia,Myles
+FW,Charles De Ketelaere,Belgium,Myles
+DF,Alex Telles,Brazil,Myles
+GK,Simon Ngapandouetnbu,Cameroon,Myles
+DF,Enzo Ebosse,Cameroon,Myles
+DF,Nouhou Tolo,Cameroon,Myles
+FW,Tajon Buchanan,Canada,Myles
+GK,Esteban Alvarado,Costa Rica,Myles
+DF,Dejan Lovren,Croatia,Myles
+FW,Marko Livaja,Croatia,Myles
+MF,Thomas Delaney,Denmark,Myles
+GK,Hernán Galíndez,Ecuador,Myles
+MF,Moisés Caicedo,Ecuador,Myles
+MF,Jude Bellingham,England,Myles
+GK,Alphonse Areola,France,Myles
+FW,Ousmane Dembélé,France,Myles
+FW,Randal Kolo Muani,France,Myles
+MF,Jamal Musiala,Germany,Myles
+MF,Salis Abdul Samed,Ghana,Myles
+GK,Eiji Kawashima,Japan,Myles
+MF,Junya Ito,Japan,Myles
+MF,Ritsu Dōan,Japan,Myles
+FW,Alexis Vega,Mexico,Myles
+DF,Noussair Mazraoui,Morocco,Myles
+DF,Jeremie Frimpong,Netherlands,Myles
+DF,Tyrell Malacia,Netherlands,Myles
+DF,Jan Bednarek,Poland,Myles
+DF,Mateusz Wieteska,Poland,Myles
+MF,Michał Skóraś,Poland,Myles
+MF,Mostafa Meshaal,Qatar,Myles
+GK,Seny Dieng,Senegal,Myles
+DF,Ismail Jakobs,Senegal,Myles
+DF,Kalidou Koulibaly,Senegal,Myles
+GK,Marko Dmitrović,Serbia,Myles
+GK,Vanja Milinković-Savić,Serbia,Myles
+DF,Filip Mladenović,Serbia,Myles
+FW,Aleksandar Mitrović,Serbia,Myles
+MF,Hwang In-beom,South Korea,Myles
+FW,Pablo Sarabia,Spain,Myles
+MF,Fabian Frei,Switzerland,Myles
+DF,DeAndre Yedlin,United States,Myles
+DF,Mathías Olivera,Uruguay,Myles
+MF,Rodrigo Bentancur,Uruguay,Myles
+MF,Matthew Smith,Wales,Myles
+MF,Rubin Colwill,Wales,Myles
+FW,Brennan Johnson,Wales,Myles
+FW,Kieffer Moore,Wales,Myles
+GK,Emiliano Martínez,Argentina,Numan
+FW,Craig Goodwin,Australia,Numan
+FW,Yannick Carrasco,Belgium,Numan
+DF,Thiago Silva,Brazil,Numan
+FW,Antony,Brazil,Numan
+MF,Georges-Kévin Nkoudou,Cameroon,Numan
+DF,Alistair Johnston,Canada,Numan
+MF,Mateo Kovačić,Croatia,Numan
+DF,William Pacho,Ecuador,Numan
+DF,Kieran Trippier,England,Numan
+DF,Trent Alexander-Arnold,England,Numan
+MF,Declan Rice,England,Numan
+GK,Steve Mandanda,France,Numan
+DF,Dayot Upamecano,France,Numan
+GK,Manuel Neuer,Germany,Numan
+MF,Leon Goretzka,Germany,Numan
+FW,Kai Havertz,Germany,Numan
+DF,Alexander Djiku,Ghana,Numan
+MF,Abdul Fatawu Issahaku,Ghana,Numan
+DF,Sadegh Moharrami,Iran,Numan
+MF,Vahid Amiri,Iran,Numan
+DF,Kevin Álvarez,Mexico,Numan
+MF,Érick Gutiérrez,Mexico,Numan
+FW,Raúl Jiménez,Mexico,Numan
+DF,Achraf Dari,Morocco,Numan
+MF,Bilal El Khannous,Morocco,Numan
+MF,Zakaria Aboukhlal,Morocco,Numan
+DF,Virgil van Dijk,Netherlands,Numan
+FW,Noa Lang,Netherlands,Numan
+FW,Wout Weghorst,Netherlands,Numan
+DF,Rúben Dias,Portugal,Numan
+MF,Rúben Neves,Portugal,Numan
+DF,Mohammed Waad,Qatar,Numan
+MF,Abdulaziz Hatem,Qatar,Numan
+FW,Khalid Muneer,Qatar,Numan
+GK,Mohammed Al-Rubaie,Saudi Arabia,Numan
+DF,Yasser Al-Shahrani,Saudi Arabia,Numan
+FW,Hattan Bahebri,Saudi Arabia,Numan
+FW,Filip Đuričić,Serbia,Numan
+DF,Dani Carvajal,Spain,Numan
+DF,Eric García,Spain,Numan
+MF,Marcos Llorente,Spain,Numan
+FW,Dani Olmo,Spain,Numan
+DF,Ali Maâloul,Tunisia,Numan
+FW,Youssef Msakni,Tunisia,Numan
+DF,Antonee Robinson,United States,Numan
+MF,Kellyn Acosta,United States,Numan
+GK,Wayne Hennessey,Wales,Numan
+DF,Ben Cabango,Wales,Numan
+DF,Neco Williams,Wales,Numan
+FW,Mark Harris,Wales,Numan
+DF,Lisandro Martínez,Argentina,Pat
+DF,Nicolás Otamendi,Argentina,Pat
+GK,Andrew Redmayne,Australia,Pat
+DF,Bailey Wright,Australia,Pat
+MF,Jackson Irvine,Australia,Pat
+FW,Jamie Maclaren,Australia,Pat
+DF,Zeno Debast,Belgium,Pat
+MF,Axel Witsel,Belgium,Pat
+GK,Weverton,Brazil,Pat
+DF,Danilo,Brazil,Pat
+MF,Casemiro,Brazil,Pat
+DF,Jerome Ngom Mbekeli,Cameroon,Pat
+DF,Richie Laryea,Canada,Pat
+DF,Bryan Oviedo,Costa Rica,Pat
+MF,Douglas López,Costa Rica,Pat
+GK,Alexander Domínguez,Ecuador,Pat
+DF,Eric Dier,England,Pat
+DF,Antonio Rüdiger,Germany,Pat
+DF,Armel Bella-Kotchap,Germany,Pat
+DF,Baba Rahman,Ghana,Pat
+MF,Thomas Partey,Ghana,Pat
+FW,Antoine Semenyo,Ghana,Pat
+GK,Daniel Schmidt,Japan,Pat
+DF,Hiroki Sakai,Japan,Pat
+DF,Maya Yoshida,Japan,Pat
+MF,Gaku Shibasaki,Japan,Pat
+GK,Alfredo Talavera,Mexico,Pat
+FW,Steven Bergwijn,Netherlands,Pat
+GK,Kamil Grabara,Poland,Pat
+FW,Robert Lewandowski,Poland,Pat
+DF,Sultan Al-Ghannam,Saudi Arabia,Pat
+MF,Nasser Al-Dawsari,Saudi Arabia,Pat
+MF,Riyadh Sharahili,Saudi Arabia,Pat
+GK,Édouard Mendy,Senegal,Pat
+DF,Fodé Ballo-Touré,Senegal,Pat
+MF,Mamadou Loum,Senegal,Pat
+MF,Darko Lazović,Serbia,Pat
+MF,Sergej Milinković-Savić,Serbia,Pat
+DF,Kim Min-jae,South Korea,Pat
+DF,Kim Moon-hwan,South Korea,Pat
+DF,Kim Young-gwon,South Korea,Pat
+MF,Lee Kang-in,South Korea,Pat
+MF,Michel Aebischer,Switzerland,Pat
+DF,Mohamed Dräger,Tunisia,Pat
+MF,Ellyes Skhiri,Tunisia,Pat
+MF,Mohamed Ali Ben Romdhane,Tunisia,Pat
+GK,Ethan Horvath,United States,Pat
+DF,Joe Scally,United States,Pat
+FW,Jordan Morris,United States,Pat
+MF,Lucas Torreira,Uruguay,Pat
+FW,Edinson Cavani,Uruguay,Pat
+MF,Marcos Acuña,Argentina,Rhys
+FW,Lionel Messi,Argentina,Rhys
+MF,Riley McGree,Australia,Rhys
+MF,Thorgan Hazard,Belgium,Rhys
+FW,Leandro Trossard,Belgium,Rhys
+DF,Éder Militão,Brazil,Rhys
+MF,Bruno Guimarães,Brazil,Rhys
+MF,Fred,Brazil,Rhys
+MF,Samuel Gouet,Cameroon,Rhys
+FW,Jonathan David,Canada,Rhys
+GK,Patrick Sequeira,Costa Rica,Rhys
+DF,Rónald Matarrita,Costa Rica,Rhys
+MF,Anthony Hernández,Costa Rica,Rhys
+MF,Bryan Ruiz,Costa Rica,Rhys
+MF,Lovro Majer,Croatia,Rhys
+DF,Jens Stryger Larsen,Denmark,Rhys
+DF,Jackson Porozo,Ecuador,Rhys
+MF,Ayrton Preciado,Ecuador,Rhys
+MF,Carlos Gruezo,Ecuador,Rhys
+FW,Enner Valencia,Ecuador,Rhys
+FW,Kevin Rodríguez,Ecuador,Rhys
+FW,Michael Estrada,Ecuador,Rhys
+DF,Raphaël Varane,France,Rhys
+MF,Aurélien Tchouaméni,France,Rhys
+MF,Julian Brandt,Germany,Rhys
+MF,Mario Götze,Germany,Rhys
+FW,Niclas Füllkrug,Germany,Rhys
+GK,Lawrence Ati-Zigi,Ghana,Rhys
+FW,Jordan Ayew,Ghana,Rhys
+GK,Payam Niazmand,Iran,Rhys
+DF,Morteza Pouraliganji,Iran,Rhys
+FW,Takuma Asano,Japan,Rhys
+MF,Héctor Herrera,Mexico,Rhys
+MF,Sofyan Amrabat,Morocco,Rhys
+DF,Matthijs de Ligt,Netherlands,Rhys
+FW,Vincent Janssen,Netherlands,Rhys
+MF,Otávio,Portugal,Rhys
+GK,Yousef Hassan,Qatar,Rhys
+DF,Homam Ahmed,Qatar,Rhys
+DF,Ismaeel Mohammad,Qatar,Rhys
+MF,Salem Al-Hajri,Qatar,Rhys
+FW,Ahmed Alaaeldin,Qatar,Rhys
+FW,Salem Al-Dawsari,Saudi Arabia,Rhys
+MF,Pedri,Spain,Rhys
+FW,Ferran Torres,Spain,Rhys
+FW,Nico Williams,Spain,Rhys
+DF,Dylan Bronn,Tunisia,Rhys
+DF,Walker Zimmerman,United States,Rhys
+DF,Martín Cáceres,Uruguay,Rhys
+MF,Federico Valverde,Uruguay,Rhys
+FW,Luis Suárez,Uruguay,Rhys
+DF,Germán Pezzella,Argentina,Richard
+MF,Exequiel Palacios,Argentina,Richard
+FW,Ángel Correa,Argentina,Richard
+GK,Thibaut Courtois,Belgium,Richard
+DF,Arthur Theate,Belgium,Richard
+MF,Timothy Castagne,Belgium,Richard
+FW,Romelu Lukaku,Belgium,Richard
+DF,Alex Sandro,Brazil,Richard
+GK,André Onana,Cameroon,Richard
+DF,Collins Fai,Cameroon,Richard
+DF,Jean-Charles Castelletto,Cameroon,Richard
+MF,Gaël Ondoua,Cameroon,Richard
+MF,Martin Hongla,Cameroon,Richard
+DF,Derek Cornelius,Canada,Richard
+MF,Jonathan Osorio,Canada,Richard
+DF,Juan Pablo Vargas,Costa Rica,Richard
+FW,Anthony Contreras,Costa Rica,Richard
+DF,Domagoj Vida,Croatia,Richard
+FW,Ante Budimir,Croatia,Richard
+FW,Bruno Petković,Croatia,Richard
+FW,Martin Braithwaite,Denmark,Richard
+MF,Sebas Méndez,Ecuador,Richard
+DF,Lucas Hernandez,France,Richard
+DF,Thilo Kehrer,Germany,Richard
+GK,Abdul Manaf Nurudeen,Ghana,Richard
+DF,Ehsan Hajsafi,Iran,Richard
+DF,Milad Mohammadi,Iran,Richard
+MF,Daichi Kamada,Japan,Richard
+FW,Ayase Ueda,Japan,Richard
+FW,Abderrazak Hamdallah,Morocco,Richard
+MF,Xavi Simons,Netherlands,Richard
+FW,Cody Gakpo,Netherlands,Richard
+FW,Luuk de Jong,Netherlands,Richard
+GK,Łukasz Skorupski,Poland,Richard
+DF,Diogo Dalot,Portugal,Richard
+DF,Tarek Salman,Qatar,Richard
+DF,Ali Al-Bulaihi,Saudi Arabia,Richard
+MF,Salman Al-Faraj,Saudi Arabia,Richard
+FW,Saleh Al-Shehri,Saudi Arabia,Richard
+GK,Predrag Rajković,Serbia,Richard
+GK,Song Bum-keun,South Korea,Richard
+DF,Kim Tae-hwan,South Korea,Richard
+MF,Paik Seung-ho,South Korea,Richard
+MF,Son Jun-ho,South Korea,Richard
+FW,Ruben Vargas,Switzerland,Richard
+FW,Taha Yassine Khenissi,Tunisia,Richard
+MF,Luca de la Torre,United States,Richard
+FW,Jesús Ferreira,United States,Richard
+FW,Timothy Weah,United States,Richard
+GK,Sebastián Sosa,Uruguay,Richard
+DF,Joe Rodon,Wales,Richard
+MF,Alexis Mac Allister,Argentina,Rob
+DF,Kye Rowles,Australia,Rob
+DF,Miloš Degenek,Australia,Rob
+FW,Bryan Mbeumo,Cameroon,Rob
+DF,Steven Vitória,Canada,Rob
+MF,David Wotherspoon,Canada,Rob
+MF,Brandon Aguilera,Costa Rica,Rob
+GK,Frederik Rønnow,Denmark,Rob
+MF,Mathias Jensen,Denmark,Rob
+FW,Yussuf Poulsen,Denmark,Rob
+FW,Djorkaeff Reasco,Ecuador,Rob
+GK,Hugo Lloris,France,Rob
+DF,Benjamin Pavard,France,Rob
+FW,Antoine Griezmann,France,Rob
+GK,Marc-André ter Stegen,Germany,Rob
+MF,İlkay Gündoğan,Germany,Rob
+FW,Serge Gnabry,Germany,Rob
+MF,Ali Gholizadeh,Iran,Rob
+FW,Hirving Lozano,Mexico,Rob
+FW,Uriel Antuna,Mexico,Rob
+MF,Ilias Chair,Morocco,Rob
+FW,Abde Ezzalzouli,Morocco,Rob
+FW,Walid Cheddira,Morocco,Rob
+DF,Jurriën Timber,Netherlands,Rob
+DF,Robert Gumny,Poland,Rob
+GK,Diogo Costa,Portugal,Rob
+MF,Matheus Nunes,Portugal,Rob
+FW,Rafael Leão,Portugal,Rob
+MF,Karim Boudiaf,Qatar,Rob
+DF,Abdulelah Al-Amri,Saudi Arabia,Rob
+DF,Hassan Al-Tambakti,Saudi Arabia,Rob
+DF,Mohammed Al-Breik,Saudi Arabia,Rob
+FW,Haitham Asiri,Saudi Arabia,Rob
+FW,Boulaye Dia,Senegal,Rob
+FW,Ismaïla Sarr,Senegal,Rob
+DF,Nikola Milenković,Serbia,Rob
+DF,Strahinja Eraković,Serbia,Rob
+MF,Filip Kostić,Serbia,Rob
+MF,Saša Lukić,Serbia,Rob
+GK,Jo Hyeon-woo,South Korea,Rob
+DF,Hong Chul,South Korea,Rob
+MF,Carlos Soler,Spain,Rob
+FW,Yeremy Pino,Spain,Rob
+DF,Nico Elvedi,Switzerland,Rob
+FW,Breel Embolo,Switzerland,Rob
+DF,Ali Abdi,Tunisia,Rob
+MF,Ferjani Sassi,Tunisia,Rob
+GK,Matt Turner,United States,Rob
+MF,Yunus Musah,United States,Rob
+DF,Guillermo Varela,Uruguay,Rob
+MF,Nicolás de la Cruz,Uruguay,Rob
+DF,Nahuel Molina,Argentina,Sanjeev
+GK,Danny Vukovic,Australia,Sanjeev
+DF,Harry Souttar,Australia,Sanjeev
+MF,Éverton Ribeiro,Brazil,Sanjeev
+DF,Christopher Wooh,Cameroon,Sanjeev
+MF,André-Frank Zambo Anguissa,Cameroon,Sanjeev
+MF,Samuel Piette,Canada,Sanjeev
+MF,Stephen Eustáquio,Canada,Sanjeev
+DF,Carlos Martínez,Costa Rica,Sanjeev
+DF,Keysher Fuller,Costa Rica,Sanjeev
+DF,Óscar Duarte,Costa Rica,Sanjeev
+FW,Joel Campbell,Costa Rica,Sanjeev
+FW,Andreas Cornelius,Denmark,Sanjeev
+DF,John Stones,England,Sanjeev
+DF,Luke Shaw,England,Sanjeev
+MF,Jordan Henderson,England,Sanjeev
+MF,Eduardo Camavinga,France,Sanjeev
+MF,Kamaldeen Sulemana,Ghana,Sanjeev
+DF,Yuto Nagatomo,Japan,Sanjeev
+MF,Ao Tanaka,Japan,Sanjeev
+MF,Wataru Endo,Japan,Sanjeev
+DF,César Montes,Mexico,Sanjeev
+DF,Johan Vásquez,Mexico,Sanjeev
+GK,Justin Bijlow,Netherlands,Sanjeev
+MF,Marten de Roon,Netherlands,Sanjeev
+GK,Saad Al-Sheeb,Qatar,Sanjeev
+MF,Ali Assadalla,Qatar,Sanjeev
+DF,Moustapha Name,Senegal,Sanjeev
+MF,Pathé Ciss,Senegal,Sanjeev
+FW,Bamba Dieng,Senegal,Sanjeev
+FW,Famara Diédhiou,Senegal,Sanjeev
+MF,Son Heung-min,South Korea,Sanjeev
+MF,Koke,Spain,Sanjeev
+GK,Philipp Köhn,Switzerland,Sanjeev
+DF,Eray Cömert,Switzerland,Sanjeev
+MF,Denis Zakaria,Switzerland,Sanjeev
+MF,Xherdan Shaqiri,Switzerland,Sanjeev
+GK,Bechir Ben Saïd,Tunisia,Sanjeev
+DF,Yassine Meriah,Tunisia,Sanjeev
+MF,Aïssa Laïdouni,Tunisia,Sanjeev
+MF,Nader Ghandri,Tunisia,Sanjeev
+FW,Wahbi Khazri,Tunisia,Sanjeev
+DF,Shaq Moore,United States,Sanjeev
+FW,Giovanni Reyna,United States,Sanjeev
+DF,Diego Godín,Uruguay,Sanjeev
+DF,José Giménez,Uruguay,Sanjeev
+MF,Agustín Canobbio,Uruguay,Sanjeev
+FW,Facundo Torres,Uruguay,Sanjeev
+DF,Connor Roberts,Wales,Sanjeev
+DF,Ethan Ampadu,Wales,Sanjeev
+MF,Dylan Levitt,Wales,Sanjeev
+DF,Gonzalo Montiel,Argentina,Sarah
+MF,Rodrigo De Paul,Argentina,Sarah
+FW,Garang Kuol,Australia,Sarah
+FW,Mitchell Duke,Australia,Sarah
+MF,Youri Tielemans,Belgium,Sarah
+FW,Dries Mertens,Belgium,Sarah
+FW,Christian Bassogog,Cameroon,Sarah
+FW,Karl Toko Ekambi,Cameroon,Sarah
+FW,Vincent Aboubakar,Cameroon,Sarah
+MF,Junior Hoilett,Canada,Sarah
+MF,Mark-Anthony Kaye,Canada,Sarah
+DF,Francisco Calvo,Costa Rica,Sarah
+MF,Yeltsin Tejeda,Costa Rica,Sarah
+FW,Mislav Oršić,Croatia,Sarah
+DF,Félix Torres,Ecuador,Sarah
+MF,Alan Franco,Ecuador,Sarah
+GK,Aaron Ramsdale,England,Sarah
+DF,Ben White,England,Sarah
+DF,Kyle Walker,England,Sarah
+FW,Olivier Giroud,France,Sarah
+FW,Karim Adeyemi,Germany,Sarah
+FW,André Ayew,Ghana,Sarah
+GK,Amir Abedzadeh,Iran,Sarah
+MF,Ali Karimi,Iran,Sarah
+MF,Saeid Ezatolahi,Iran,Sarah
+DF,Shogo Taniguchi,Japan,Sarah
+MF,Yuki Soma,Japan,Sarah
+GK,Rodolfo Cota,Mexico,Sarah
+MF,Carlos Rodríguez,Mexico,Sarah
+FW,Roberto Alvarado,Mexico,Sarah
+MF,Azzedine Ounahi,Morocco,Sarah
+GK,Remko Pasveer,Netherlands,Sarah
+DF,Bartosz Bereszyński,Poland,Sarah
+DF,João Cancelo,Portugal,Sarah
+GK,Nawaf Al-Aqidi,Saudi Arabia,Sarah
+DF,Saud Abdulhamid,Saudi Arabia,Sarah
+MF,Nawaf Al-Abed,Saudi Arabia,Sarah
+MF,Ivan Ilić,Serbia,Sarah
+MF,Marko Grujić,Serbia,Sarah
+MF,Hwang Hee-chan,South Korea,Sarah
+MF,Jung Woo-young,South Korea,Sarah
+FW,Hwang Ui-jo,South Korea,Sarah
+GK,David Raya,Spain,Sarah
+DF,Hugo Guillamón,Spain,Sarah
+MF,Gavi,Spain,Sarah
+DF,Manuel Akanji,Switzerland,Sarah
+GK,Aymen Dahmen,Tunisia,Sarah
+FW,Seifeddine Jaziri,Tunisia,Sarah
+FW,Brenden Aaronson,United States,Sarah
+FW,Darwin Núñez,Uruguay,Sarah
+FW,Facundo Pellistri,Uruguay,Sarah
+DF,Sam Adekugbe,Canada,Spare
+FW,Lucas Cavallini,Canada,Spare
+MF,José Cifuentes,Ecuador,Spare
+DF,Gideon Mensah,Ghana,Spare
+DF,Mohammed Salisu,Ghana,Spare
+DF,Takehiro Tomiyasu,Japan,Spare
+DF,Badr Benoun,Morocco,Spare
+DF,Nayef Aguerd,Morocco,Spare
+MF,Teun Koopmeiners,Netherlands,Spare
+DF,Kamil Glik,Poland,Spare
+MF,Piotr Zieliński,Poland,Spare
+MF,Granit Xhaka,Switzerland,Spare
+MF,Hannibal Mejbri,Tunisia,Spare
+GK,Gerónimo Rulli,Argentina,Tim
+FW,Ángel Di María,Argentina,Tim
+MF,Ajdin Hrustic,Australia,Tim
+GK,Simon Mignolet,Belgium,Tim
+DF,Wout Faes,Belgium,Tim
+FW,Rodrygo,Brazil,Tim
+FW,Vinícius Júnior,Brazil,Tim
+DF,Nicolas Nkoulou,Cameroon,Tim
+MF,Souaibou Marou,Cameroon,Tim
+FW,Moumi Ngamaleu,Cameroon,Tim
+GK,James Pantemis,Canada,Tim
+DF,Joel Waterman,Canada,Tim
+DF,Borna Sosa,Croatia,Tim
+DF,Alexander Bah,Denmark,Tim
+DF,Joachim Andersen,Denmark,Tim
+MF,Jeremy Sarmiento,Ecuador,Tim
+MF,Romario Ibarra,Ecuador,Tim
+DF,Conor Coady,England,Tim
+MF,Conor Gallagher,England,Tim
+MF,Jordan Veretout,France,Tim
+DF,Alidu Seidu,Ghana,Tim
+MF,Daniel-Kofi Kyereh,Ghana,Tim
+MF,Elisha Owusu,Ghana,Tim
+MF,Saman Ghoddos,Iran,Tim
+MF,Kaoru Mitoma,Japan,Tim
+DF,Gerardo Arteaga,Mexico,Tim
+GK,Yassine Bounou,Morocco,Tim
+DF,Jawad El Yamiq,Morocco,Tim
+MF,Yahya Jabrane,Morocco,Tim
+DF,Denzel Dumfries,Netherlands,Tim
+MF,Davy Klaassen,Netherlands,Tim
+MF,Steven Berghuis,Netherlands,Tim
+DF,Matty Cash,Poland,Tim
+DF,Raphaël Guerreiro,Portugal,Tim
+MF,Abdulellah Al-Malki,Saudi Arabia,Tim
+FW,Firas Al-Buraikan,Saudi Arabia,Tim
+DF,Strahinja Pavlović,Serbia,Tim
+FW,Dušan Vlahović,Serbia,Tim
+DF,Aymeric Laporte,Spain,Tim
+DF,César Azpilicueta,Spain,Tim
+FW,Ansu Fati,Spain,Tim
+FW,Marco Asensio,Spain,Tim
+DF,Ricardo Rodriguez,Switzerland,Tim
+GK,Aymen Mathlouthi,Tunisia,Tim
+DF,Aaron Long,United States,Tim
+DF,Cameron Carter-Vickers,United States,Tim
+DF,Tim Ream,United States,Tim
+FW,Josh Sargent,United States,Tim
+DF,Matías Viña,Uruguay,Tim
+MF,Manuel Ugarte,Uruguay,Tim
+DF,Ben Davies,Wales,Tim
