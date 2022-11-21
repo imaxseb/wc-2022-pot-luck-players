@@ -1,7 +1,7 @@
 body            { font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
 a, h1, h2       { color: #377ba8; }
 h1, h2          { margin-left: 40px; margin-top: 15px; margin-bottom: 15px; }
-p               { margin-left: 40px; margin-bottom: 15px;}
+p, ul               { margin-left: 40px; margin-bottom: 15px;}
 h1              { border-bottom: 2px solid #eee; }
 h2              { font-size: 1.2em; }
 
